@@ -1,0 +1,71 @@
+
+  .jumbotron {
+  background-image: url(http://www.houghton.edu/am-site/media/math-header-031913.jpg);
+  padding: 5%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 0%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+.tekstas {
+  opacity: 0.6;
+  filter: alpha(opacity=40);
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+.nuotrauka {
+  background-image: url(img.jpg);
+  width: 297px;
+  height: 235px;
+  border-radius: 30%;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  overflow: hidden;
+  border: 0px solid black;
+}
+.aprasymas {
+  text-align: left;
+  font-size: 30px;
+  color: black;
+  padding: 0px;
+  border: 0px solid none;
+
+  background-size: contain;
+  padding: 10.2% 0%;
+  border: 0px solid black;
+}
+.hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 5px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+.informacija {
+border: 0px solid black;
+font-size: 15px;
+}
+ul.a {list-style-type: none;}
+/*.sonasK{
+width: 10%;
+height: 100%;
+}
+.sonasK{
+width: 10%;
+height: 100%;
+}*/
+
+.footeris {
+opacity: 0.6;
+filter: alpha(opacity=40);
+text-align: center;
+font-size: 15px;
+color: black;
+}
